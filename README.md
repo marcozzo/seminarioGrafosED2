@@ -46,3 +46,7 @@ O que este módulo faz:
 * Imprime uma tabela consolidada de métricas no terminal acompanhada das especificações técnicas da CPU e memória RAM utilizadas no teste.
 
 ### 2. Gerar a Visualização do Grafo e Gráficos de Complexidade (```viewplot.py```)
+
+<img src="images/grafo_mapa_curricular.png" width="500">
+
+<img src="images/grafico_complexidade_ciclos.png" width="500">
